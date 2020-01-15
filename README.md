@@ -1,3 +1,7 @@
+# Deprecated
+Please use https://github.com/stueccles/analytics-elixir
+
+
 SegmentStats
 ========
 A simple Elixir OTP application wrapper for [segment client](https://github.com/stueccles/analytics-elixir).
